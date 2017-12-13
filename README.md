@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Wordpress for Developers
 
 **Disclaimer**: this is not a "customization" of the wordpress core. Not a single core file was harmed nor changed for this toolset. We follow the cardinal rule of Wordpress [**don't change the core**](https://getflywheel.com/layout/wp-core/). And we encourage you to do so.
@@ -131,3 +132,6 @@ From now on you should only install plugins available in the WPackagist project,
 [https://wpackagist.org/search](https://wpackagist.org/search)
 
 If a plugin is no available, you can still install your own plugins if you want and nothing will break (unless you install crappy plugins) :)
+=======
+# Wordpress-sample
+>>>>>>> 19c55292f7643f9a14443d08872c13fa12af2207
